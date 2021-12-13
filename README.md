@@ -4,6 +4,9 @@ Analysis of Reptiles occurances in ACT region from ALA (Atlas of Living Australi
 
 The 'code' folder contains R files to download the data and to explore,visualize the data and also the visuals.
 
+## Access the app from shinyapps.io 
+https://moghani.shinyapps.io/ALA_Data_Analysis-main/
+
 ## To run the app
 1. Download the complete repository to your local machine
 2. open 'global.R' file.
