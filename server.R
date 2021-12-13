@@ -209,14 +209,6 @@ shinyServer <- function(input, output , session) {
       return(a5)
       
     })
-  })
-  
-  observeEvent(input$report,{
-    #print(rv$map_plot)
-    print(input$format)
-    # tempReport <- file.path(tempdir(), "report.Rmd")
-    # file.copy("report.Rmd", tempReport, overwrite = TRUE)
-    
-  })
+  })  
   
 }
