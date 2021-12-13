@@ -21,7 +21,7 @@ library(galah) # A package created by ALA
 #Remember:
 #Only after the account has been created, go to the next command.
 #----------------------------------------------------------------
-galah_config(email="mghanikhan@gmail.com") # run this command to set email of 
+galah_config(email="john@example.com") # run this command to set email of 
 # login account in ALA to download
 
 #Download the data with the function ala_occurrences(). This function 
