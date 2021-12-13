@@ -1,6 +1,6 @@
 # ALA_Data_Analysis
 
-Analysis of Reptiles occurances in ACT region from ALA
+Analysis of Reptiles occurances in ACT region from ALA (Atlas of Living Australia)
 
 The 'code' folder contains R files to download the data and to explore,visualize the data and also the visuals.
 
